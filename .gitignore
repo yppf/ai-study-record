@@ -1,0 +1,14 @@
+d2l-zh-master/
+机器学习个人笔记完整版v4.21.pdf
+_pdf_keyword_counts.txt
+
+__pycache__/
+*.pyc
+.pytest_cache/
+
+.vscode/
+.idea/
+
+.venv/
+venv/
+env/
