@@ -10,6 +10,7 @@
 
 ```text
 .
+├─ references/
 ├─ docs/
 │  ├─ daily-checkins/
 │  ├─ guides/
@@ -34,6 +35,15 @@
 - 入门指引：
   - [D2L-ZH Start Here](docs/guides/d2l_zh_start_here.md)
 
+## 当前主线与历史资料的区分
+
+- `docs/`、`code/`、`scripts/`
+  - 当前这条线是我自己整理和持续更新的学习记录、计划、总结与 demo。
+- `references/`
+  - 这里存放我之前学过的外部教程或专题学习包，作为历史参考资料归档。
+  - 当前已归档：
+    - [dive-into-llms-main reference note](references/dive-into-llms-main/README.md)
+
 ## 代码分区
 
 - `code/fundamentals/`
@@ -56,3 +66,5 @@ python code/fundamentals/day01_tensor_demo.py
 
 - `d2l-zh-master/` 是本地参考教材源码，作为学习辅助材料保留在本地。
 - 大体积 PDF 和临时产物默认不纳入 GitHub 记录。
+- `references/dive-into-llms-main/` 现在只保留来源说明，不再镜像原始课件、图片、notebook 或上游文本。
+- 对于没有明确许可证的外部项目，我只在公开仓库里保留引用说明和我自己的学习记录，不公开再分发原始资料。
