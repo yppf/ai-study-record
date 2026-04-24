@@ -12,6 +12,7 @@
 .
 ├─ references/
 ├─ docs/
+│  ├─ course-notes/
 │  ├─ daily-checkins/
 │  ├─ guides/
 │  ├─ roadmap/
@@ -32,6 +33,8 @@
   - [15天之后的大模型项目学习路线](docs/roadmap/15天之后的大模型项目学习路线.md)
 - 总结：
   - [大模型数学基础学习总结](docs/summaries/大模型数学基础学习总结.md)
+- 课程笔记：
+  - [Dive Into LLMs 课程学习笔记索引](docs/course-notes/dive-into-llms/README.md)
 - 入门指引：
   - [D2L-ZH Start Here](docs/guides/d2l_zh_start_here.md)
 
@@ -39,6 +42,7 @@
 
 - `docs/`、`code/`、`scripts/`
   - 当前这条线是我自己整理和持续更新的学习记录、计划、总结与 demo。
+  - `docs/course-notes/` 中也包含我自己写的课程学习笔记与知识总结。
 - `references/`
   - 这里存放我之前学过的外部教程或专题学习包，作为历史参考资料归档。
   - 当前已归档：
